@@ -18,7 +18,7 @@ function preload(){
 
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(600, 500);
   
  
   background = createSprite(0,0,600,600);
